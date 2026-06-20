@@ -8,13 +8,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=20.0.0"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "overrides": {
-    "form-data": "^4.0.0"
+    "node": "22.x"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.90.1",
